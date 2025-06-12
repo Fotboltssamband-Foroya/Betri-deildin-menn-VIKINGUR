@@ -2,108 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:🏆 Betri deildin menn\n🔁 Umfar: 10\n📊 Støða: SPÆLT
-DURATION:PT2H
-LOCATION:í Hólmanum
-DTSTART:20250516T140000Z
-SUMMARY:EB/Streymur - Víkingur 1:2
-UID:a9d96648-2403-4513-b889-f02abf8447ab@a9d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Betri deildin menn\n🔁 Umfar: 23\n📊 Støða: SKRIVAÐ
-DURATION:PT2H
-LOCATION:í Sarpugerði
-DTSTART:20250920T230000Z
-SUMMARY:Víkingur - 07 Vestur -:-
-UID:72eadb42-5019-415f-98c2-bda8b3870dff@72ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Betri deildin menn\n🔁 Umfar: 16\n📊 Støða: SKRIVAÐ
-DURATION:PT2H
-LOCATION:í Sarpugerði
-DTSTART:20250703T180000Z
-SUMMARY:Víkingur - KÍ -:-
-UID:78aa46cd-fd9a-461c-b83a-1535d37dc889@78aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Betri deildin menn\n🔁 Umfar: 20\n📊 Støða: SKRIVAÐ
-DURATION:PT2H
-LOCATION:í Sarpugerði
-DTSTART:20250823T230000Z
-SUMMARY:Víkingur - EB/Streymur -:-
-UID:2ec7b6b4-f720-4987-951c-a0592d8c79f0@2ec7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Betri deildin menn\n🔁 Umfar: 24\n📊 Støða: SKRIVAÐ
+DESCRIPTION:🏆 Betri deildin menn\n🔁 Umfar: 12\n📊 Støða: SPÆLT
 DURATION:PT2H
 LOCATION:Gundadalur\, ovari vøllur
-DTSTART:20250927T230000Z
-SUMMARY:B36 - Víkingur -:-
-UID:bc10c4d8-f00f-4ba9-832d-dbe9311180b8@bc10.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Betri deildin menn\n🔁 Umfar: 19\n📊 Støða: SKRIVAÐ
-DURATION:PT2H
-LOCATION:í Sarpugerði
-DTSTART:20250817T230000Z
-SUMMARY:Víkingur - NSÍ -:-
-UID:c63d360b-ba64-4425-867b-1cf7f9281d70@c63d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Betri deildin menn\n🔁 Umfar: 8\n📊 Støða: SPÆLT
-DURATION:PT2H
-LOCATION:á Eiðinum
-DTSTART:20250504T133000Z
-SUMMARY:FC Suðuroy - Víkingur 0:2
-UID:17151f8b-a0cd-4b74-8650-8c025a32561d@1715.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Betri deildin menn\n🔁 Umfar: 7\n📊 Støða: SPÆLT
-DURATION:PT2H
-LOCATION:Svangaskarð\, ovari vøllur
-DTSTART:20250426T160000Z
-SUMMARY:B68 - Víkingur 0:1
-UID:d21a968b-b6d0-416a-903e-7f5a394df22a@d21a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Betri deildin menn\n🔁 Umfar: 11\n📊 Støða: SPÆLT
-DURATION:PT2H
-LOCATION:í Sarpugerði
-DTSTART:20250525T140000Z
-SUMMARY:Víkingur - FC Suðuroy 3:1
-UID:28123716-5be3-4090-84cf-542fde787788@2812.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Betri deildin menn\n🔁 Umfar: 26\n📊 Støða: SKRIVAÐ
-DURATION:PT2H
-LOCATION:á Eiðinum
-DTSTART:20251018T230000Z
-SUMMARY:FC Suðuroy - Víkingur -:-
-UID:ddc9dc26-fd9c-4259-a32f-d32ac399e354@ddc9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Betri deildin menn\n🔁 Umfar: 14\n📊 Støða: SKRIVAÐ
-DURATION:PT2H
-LOCATION:við Løkin
-DTSTART:20250622T161500Z
-SUMMARY:NSÍ - Víkingur -:-
-UID:c45b425e-5c8e-4d3e-b3db-ad1c7acb7022@c45b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Betri deildin menn\n🔁 Umfar: 5\n📊 Støða: SPÆLT
-DURATION:PT2H
-LOCATION:við Djúpumýru
-DTSTART:20250412T180000Z
-SUMMARY:KÍ - Víkingur 2:0
-UID:bc3e1c6c-5f0d-4a78-bc8b-4db53a5e0e52@bc3e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Betri deildin menn\n🔁 Umfar: 9\n📊 Støða: SPÆLT
-DURATION:PT2H
-LOCATION:í Sarpugerði
-DTSTART:20250509T170000Z
-SUMMARY:Víkingur - HB 0:1
-UID:8f06f862-23ba-4f37-a526-cddc08f9c67a@8f06.org
+DTSTART:20250529T140000Z
+SUMMARY:HB - Víkingur 2:1
+UID:ae8a0564-66cc-462c-8648-ec36e8441eec@ae8a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:🏆 Betri deildin menn\n🔁 Umfar: 13\n📊 Støða: ÁSETT
@@ -111,55 +15,31 @@ DURATION:PT2H
 LOCATION:við Stórá
 DTSTART:20250614T143000Z
 SUMMARY:TB - Víkingur -:-
-UID:3ce63095-bb8b-4dea-93ac-2fb68cb9b957@3ce6.org
+UID:558617df-0af8-4f07-aba6-b3dd95da8aec@5586.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🏆 Betri deildin menn\n🔁 Umfar: 17\n📊 Støða: SKRIVAÐ
-DURATION:PT2H
-LOCATION:á Dungasandi
-DTSTART:20250802T173000Z
-SUMMARY:07 Vestur - Víkingur -:-
-UID:b3554916-20a9-4aa5-9679-428cf709afa2@b355.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Betri deildin menn\n🔁 Umfar: 12\n📊 Støða: SPÆLT
-DURATION:PT2H
-LOCATION:Gundadalur\, ovari vøllur
-DTSTART:20250529T140000Z
-SUMMARY:HB - Víkingur 2:1
-UID:c6602206-04f3-4e65-a13c-2009d4a41185@c660.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Betri deildin menn\n🔁 Umfar: 4\n📊 Støða: SPÆLT
-DURATION:PT2H
-LOCATION:Gundadalur\, ovari vøllur
-DTSTART:20250403T173000Z
-SUMMARY:B36 - Víkingur 1:0
-UID:464fcd30-fbde-4dce-b981-04c9b2f939c0@464f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Betri deildin menn\n🔁 Umfar: 18\n📊 Støða: SKRIVAÐ
+DESCRIPTION:🏆 Betri deildin menn\n🔁 Umfar: 11\n📊 Støða: SPÆLT
 DURATION:PT2H
 LOCATION:í Sarpugerði
-DTSTART:20250809T180000Z
-SUMMARY:Víkingur - B36 -:-
-UID:052099b8-dfd4-4487-bee0-2311a13359dc@0520.org
+DTSTART:20250525T140000Z
+SUMMARY:Víkingur - FC Suðuroy 3:1
+UID:c2fdd382-f9a0-4097-b197-a0043695f8e5@c2fd.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🏆 Betri deildin menn\n🔁 Umfar: 22\n📊 Støða: SKRIVAÐ
+DESCRIPTION:🏆 Betri deildin menn\n🔁 Umfar: 5\n📊 Støða: SPÆLT
 DURATION:PT2H
 LOCATION:við Djúpumýru
-DTSTART:20250914T230000Z
-SUMMARY:KÍ - Víkingur -:-
-UID:cb671a6c-4f8d-4873-a5ed-ff2d05e8a745@cb67.org
+DTSTART:20250412T180000Z
+SUMMARY:KÍ - Víkingur 2:0
+UID:b858e22b-aa6e-4405-a058-fa68f95841e2@b858.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🏆 Betri deildin menn\n🔁 Umfar: 6\n📊 Støða: SPÆLT
+DESCRIPTION:🏆 Betri deildin menn\n🔁 Umfar: 7\n📊 Støða: SPÆLT
 DURATION:PT2H
-LOCATION:í Sarpugerði
-DTSTART:20250417T140000Z
-SUMMARY:Víkingur - EB/Streymur 4:1
-UID:4b651b88-152f-4075-8d4f-4ef002ab3c9f@4b65.org
+LOCATION:Svangaskarð\, ovari vøllur
+DTSTART:20250426T160000Z
+SUMMARY:B68 - Víkingur 0:1
+UID:389afd94-5410-4d23-9211-ee32eda5318e@389a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:🏆 Betri deildin menn\n🔁 Umfar: 3\n📊 Støða: SPÆLT
@@ -167,7 +47,95 @@ DURATION:PT2H
 LOCATION:í Sarpugerði
 DTSTART:20250330T140000Z
 SUMMARY:Víkingur - 07 Vestur 0:0
-UID:fb97de91-bee4-4293-984b-c3b181a3b2b0@fb97.org
+UID:4ad28184-b651-45e6-bcfd-7661f1e034ce@4ad2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Betri deildin menn\n🔁 Umfar: 19\n📊 Støða: SKRIVAÐ
+DURATION:PT2H
+LOCATION:í Sarpugerði
+DTSTART:20250817T230000Z
+SUMMARY:Víkingur - NSÍ -:-
+UID:a6e1bcee-d475-4e27-ac69-8e1ff263703f@a6e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Betri deildin menn\n🔁 Umfar: 10\n📊 Støða: SPÆLT
+DURATION:PT2H
+LOCATION:í Hólmanum
+DTSTART:20250516T140000Z
+SUMMARY:EB/Streymur - Víkingur 1:2
+UID:0cea62ea-ae76-4354-bfc7-d78bc3d19bf4@0cea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Betri deildin menn\n🔁 Umfar: 4\n📊 Støða: SPÆLT
+DURATION:PT2H
+LOCATION:Gundadalur\, ovari vøllur
+DTSTART:20250403T173000Z
+SUMMARY:B36 - Víkingur 1:0
+UID:fba3aea8-395f-40f2-a87b-6edc44e84ac7@fba3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Betri deildin menn\n🔁 Umfar: 20\n📊 Støða: SKRIVAÐ
+DURATION:PT2H
+LOCATION:í Sarpugerði
+DTSTART:20250823T230000Z
+SUMMARY:Víkingur - EB/Streymur -:-
+UID:a57bfda0-8805-4d5c-bef6-e23a47640b97@a57b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Betri deildin menn\n🔁 Umfar: 16\n📊 Støða: SKRIVAÐ
+DURATION:PT2H
+LOCATION:í Sarpugerði
+DTSTART:20250703T180000Z
+SUMMARY:Víkingur - KÍ -:-
+UID:b69a11e9-ba07-41bf-bae8-552cd6efd71f@b69a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Betri deildin menn\n🔁 Umfar: 8\n📊 Støða: SPÆLT
+DURATION:PT2H
+LOCATION:á Eiðinum
+DTSTART:20250504T133000Z
+SUMMARY:FC Suðuroy - Víkingur 0:2
+UID:9e379a52-9b08-4a63-ac2c-fc83351d623d@9e37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Betri deildin menn\n🔁 Umfar: 17\n📊 Støða: SKRIVAÐ
+DURATION:PT2H
+LOCATION:á Dungasandi
+DTSTART:20250802T173000Z
+SUMMARY:07 Vestur - Víkingur -:-
+UID:090a0b2d-6147-4e5f-a740-4df41c50e7ac@090a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Betri deildin menn\n🔁 Umfar: 9\n📊 Støða: SPÆLT
+DURATION:PT2H
+LOCATION:í Sarpugerði
+DTSTART:20250509T170000Z
+SUMMARY:Víkingur - HB 0:1
+UID:5b51e300-e9f4-4247-a35c-7389ce73950f@5b51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Betri deildin menn\n🔁 Umfar: 18\n📊 Støða: SKRIVAÐ
+DURATION:PT2H
+LOCATION:í Sarpugerði
+DTSTART:20250809T180000Z
+SUMMARY:Víkingur - B36 -:-
+UID:8722f063-01c3-4d13-b86e-43a32509feef@8722.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Betri deildin menn\n🔁 Umfar: 6\n📊 Støða: SPÆLT
+DURATION:PT2H
+LOCATION:í Sarpugerði
+DTSTART:20250417T140000Z
+SUMMARY:Víkingur - EB/Streymur 4:1
+UID:15219f40-7c20-45b0-b559-e7bbe188b533@1521.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Betri deildin menn\n🔁 Umfar: 22\n📊 Støða: SKRIVAÐ
+DURATION:PT2H
+LOCATION:við Djúpumýru
+DTSTART:20250914T230000Z
+SUMMARY:KÍ - Víkingur -:-
+UID:cb4973c3-fd5b-4de0-9160-020bc2b33cfd@cb49.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:🏆 Betri deildin menn\n🔁 Umfar: 15\n📊 Støða: SKRIVAÐ
@@ -175,7 +143,15 @@ DURATION:PT2H
 LOCATION:í Sarpugerði
 DTSTART:20250629T140000Z
 SUMMARY:Víkingur - B68 -:-
-UID:e49c2fbc-a469-405e-87dd-cdebe15c4bbd@e49c.org
+UID:b1a38d17-6994-45c5-b36f-96cbefba96c7@b1a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Betri deildin menn\n🔁 Umfar: 26\n📊 Støða: SKRIVAÐ
+DURATION:PT2H
+LOCATION:á Eiðinum
+DTSTART:20251018T230000Z
+SUMMARY:FC Suðuroy - Víkingur -:-
+UID:c14c4b64-5db6-464c-81b9-e7c57fdb8d9d@c14c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:🏆 Betri deildin menn\n🔁 Umfar: 25\n📊 Støða: SKRIVAÐ
@@ -183,15 +159,7 @@ DURATION:PT2H
 LOCATION:í Sarpugerði
 DTSTART:20251003T230000Z
 SUMMARY:Víkingur - TB -:-
-UID:b4807356-d31e-404d-a703-eaf139fa70b5@b480.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Betri deildin menn\n🔁 Umfar: 21\n📊 Støða: SKRIVAÐ
-DURATION:PT2H
-LOCATION:Svangaskarð\, ovari vøllur
-DTSTART:20250829T230000Z
-SUMMARY:B68 - Víkingur -:-
-UID:dd0b2225-dcc4-442c-b2b9-fe441601a46e@dd0b.org
+UID:d80e7356-ea44-4609-908e-8309a8c7c0bd@d80e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:🏆 Betri deildin menn\n🔁 Umfar: 27\n📊 Støða: SKRIVAÐ
@@ -199,6 +167,38 @@ DURATION:PT2H
 LOCATION:í Sarpugerði
 DTSTART:20251024T230000Z
 SUMMARY:Víkingur - HB -:-
-UID:9eae44e9-1671-4417-bdb8-1ed5fe4d164f@9eae.org
+UID:fa191f43-b81d-42d0-aaba-7822f8024f88@fa19.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Betri deildin menn\n🔁 Umfar: 23\n📊 Støða: SKRIVAÐ
+DURATION:PT2H
+LOCATION:í Sarpugerði
+DTSTART:20250920T230000Z
+SUMMARY:Víkingur - 07 Vestur -:-
+UID:0fb77bf3-b261-4532-a4b7-7ead8e6b2086@0fb7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Betri deildin menn\n🔁 Umfar: 14\n📊 Støða: SKRIVAÐ
+DURATION:PT2H
+LOCATION:við Løkin
+DTSTART:20250622T161500Z
+SUMMARY:NSÍ - Víkingur -:-
+UID:bd3acff5-885e-44a0-b233-b3c448a5651c@bd3a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Betri deildin menn\n🔁 Umfar: 21\n📊 Støða: SKRIVAÐ
+DURATION:PT2H
+LOCATION:Svangaskarð\, ovari vøllur
+DTSTART:20250829T230000Z
+SUMMARY:B68 - Víkingur -:-
+UID:c4c37bd6-ea3e-4d1d-a34d-367bc4822c79@c4c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Betri deildin menn\n🔁 Umfar: 24\n📊 Støða: SKRIVAÐ
+DURATION:PT2H
+LOCATION:Gundadalur\, ovari vøllur
+DTSTART:20250927T230000Z
+SUMMARY:B36 - Víkingur -:-
+UID:5a52bb0e-cc74-498f-9c90-1e645b97fead@5a52.org
 END:VEVENT
 END:VCALENDAR
