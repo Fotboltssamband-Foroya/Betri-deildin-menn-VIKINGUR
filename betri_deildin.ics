@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 5\n📊 Støða: SPÆLT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 25\n📊 Støða: SPÆLT
 DURATION:PT2H
-LOCATION:við Djúpumýru
-DTSTART:20250412T180000Z
-SUMMARY:KÍ - Víkingur 2:0
-UID:f1d7c24d-d525-4006-b250-2d12db580e3c@f1d7.org
+LOCATION:í Sarpugerði
+DTSTART:20251005T134500Z
+SUMMARY:Víkingur - TB 3:0
+UID:4f07da29-c85a-41b0-86b0-55c4c2e93898@4f07.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 10\n📊 Støða: SPÆLT
@@ -15,111 +15,7 @@ DURATION:PT2H
 LOCATION:í Hólmanum
 DTSTART:20250516T140000Z
 SUMMARY:EB/Streymur - Víkingur 1:2
-UID:c65fb66f-26bd-4b75-953d-2b0a3857eb14@c65f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 23\n📊 Støða: SPÆLT
-DURATION:PT2H
-LOCATION:í Sarpugerði
-DTSTART:20250921T140000Z
-SUMMARY:Víkingur - 07 Vestur 2:1
-UID:d9059cc6-eeb3-4df9-82d3-bdb1c933a7e5@d905.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 12\n📊 Støða: SPÆLT
-DURATION:PT2H
-LOCATION:Gundadalur\, ovari vøllur
-DTSTART:20250529T140000Z
-SUMMARY:HB - Víkingur 2:1
-UID:ab1000d2-136f-4121-985a-0fc7d0e1a675@ab10.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 9\n📊 Støða: SPÆLT
-DURATION:PT2H
-LOCATION:í Sarpugerði
-DTSTART:20250509T170000Z
-SUMMARY:Víkingur - HB 0:1
-UID:175d16d1-8aeb-4eab-80c2-b2679d225e50@175d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 24\n📊 Støða: SPÆLT
-DURATION:PT2H
-LOCATION:Gundadalur\, ovari vøllur
-DTSTART:20250928T140000Z
-SUMMARY:B36 - Víkingur 1:1
-UID:55fe9eb5-d954-4f83-9ea9-6c7e138696fc@55fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 25\n📊 Støða: SPÆLT
-DURATION:PT2H
-LOCATION:í Sarpugerði
-DTSTART:20251005T134500Z
-SUMMARY:Víkingur - TB 3:0
-UID:718a2e21-8245-45e4-8126-ba5e171cc01d@718a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 13\n📊 Støða: SPÆLT
-DURATION:PT2H
-LOCATION:við Stórá
-DTSTART:20250614T143000Z
-SUMMARY:TB - Víkingur 0:3
-UID:75925c4d-5d74-45a9-b6c9-db4c846348ac@7592.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 6\n📊 Støða: SPÆLT
-DURATION:PT2H
-LOCATION:í Sarpugerði
-DTSTART:20250417T140000Z
-SUMMARY:Víkingur - EB/Streymur 4:1
-UID:0b878af1-09c6-404b-899a-f494386f3abe@0b87.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 8\n📊 Støða: SPÆLT
-DURATION:PT2H
-LOCATION:á Eiðinum
-DTSTART:20250504T133000Z
-SUMMARY:FC Suðuroy - Víkingur 0:2
-UID:367d212c-25f9-4e69-97af-0d6a510a5491@367d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 17\n📊 Støða: SPÆLT
-DURATION:PT2H
-LOCATION:á Dungasandi
-DTSTART:20250802T173000Z
-SUMMARY:07 Vestur - Víkingur 1:2
-UID:a78e602f-5b67-4a45-a888-a660fb58342c@a78e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 7\n📊 Støða: SPÆLT
-DURATION:PT2H
-LOCATION:Svangaskarð\, ovari vøllur
-DTSTART:20250426T160000Z
-SUMMARY:B68 - Víkingur 0:1
-UID:981288c1-d355-415f-9acf-a43cda8605be@9812.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 4\n📊 Støða: SPÆLT
-DURATION:PT2H
-LOCATION:Gundadalur\, ovari vøllur
-DTSTART:20250403T173000Z
-SUMMARY:B36 - Víkingur 1:0
-UID:46b6b79d-58ef-4471-a4d5-dc53ea3cfec7@46b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 14\n📊 Støða: SPÆLT
-DURATION:PT2H
-LOCATION:við Løkin
-DTSTART:20250622T161500Z
-SUMMARY:NSÍ - Víkingur 1:1
-UID:da912dc6-2ad5-483b-96e6-27a4be6e075f@da91.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 22\n📊 Støða: SPÆLT
-DURATION:PT2H
-LOCATION:við Djúpumýru
-DTSTART:20250915T173000Z
-SUMMARY:KÍ - Víkingur 0:0
-UID:947f81ed-d66b-4b39-87a9-c2d41014d6e7@947f.org
+UID:4e6378b9-c737-4bee-bde2-0acd528f3534@4e63.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 16\n📊 Støða: SPÆLT
@@ -127,7 +23,7 @@ DURATION:PT2H
 LOCATION:í Sarpugerði
 DTSTART:20250703T180000Z
 SUMMARY:Víkingur - KÍ 0:1
-UID:2b3ef91a-4fec-4dc4-9cc5-412b05e15bf9@2b3e.org
+UID:bbd6b330-5e8b-4d32-bad4-29f6ad232f3a@bbd6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 19\n📊 Støða: SPÆLT
@@ -135,23 +31,15 @@ DURATION:PT2H
 LOCATION:í Sarpugerði
 DTSTART:20250818T173000Z
 SUMMARY:Víkingur - NSÍ 3:3
-UID:1d85a5da-b9d8-415f-866e-15819238a0fe@1d85.org
+UID:ee47c046-7f34-41e3-840d-5f24ef3d2d6f@ee47.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 27\n📊 Støða: SPÆLT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 4\n📊 Støða: SPÆLT
 DURATION:PT2H
-LOCATION:í Sarpugerði
-DTSTART:20251025T133000Z
-SUMMARY:Víkingur - HB 0:2
-UID:c6305599-682b-4d88-8a71-b35547c9a82d@c630.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 15\n📊 Støða: SPÆLT
-DURATION:PT2H
-LOCATION:í Sarpugerði
-DTSTART:20250629T140000Z
-SUMMARY:Víkingur - B68 2:1
-UID:eb5efdde-e902-44a9-9aac-5ea3a9088583@eb5e.org
+LOCATION:Gundadalur\, ovari vøllur
+DTSTART:20250403T173000Z
+SUMMARY:B36 - Víkingur 1:0
+UID:1f25350e-f16b-4f53-9398-7cb0ae4d82b4@1f25.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 26\n📊 Støða: SPÆLT
@@ -159,7 +47,7 @@ DURATION:PT2H
 LOCATION:á Eiðinum
 DTSTART:20251019T130000Z
 SUMMARY:FC Suðuroy - Víkingur 0:4
-UID:67438e3d-6c24-475c-9eab-b2b7d69ae173@6743.org
+UID:6de4307b-567c-4ced-89d0-0be94650eabc@6de4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 18\n📊 Støða: SPÆLT
@@ -167,7 +55,7 @@ DURATION:PT2H
 LOCATION:í Sarpugerði
 DTSTART:20250810T140000Z
 SUMMARY:Víkingur - B36 4:2
-UID:4433b9c9-9f88-45ac-8a08-3adbf0ac3150@4433.org
+UID:f06b7ae6-347a-463a-8ace-b451a52ee364@f06b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 20\n📊 Støða: SPÆLT
@@ -175,23 +63,39 @@ DURATION:PT2H
 LOCATION:í Sarpugerði
 DTSTART:20250824T161500Z
 SUMMARY:Víkingur - EB/Streymur 1:1
-UID:30464bbd-7ec5-4272-bcc3-ccfd2ab1106a@3046.org
+UID:cd3b0b32-7b29-434e-8ce1-9899733a5e69@cd3b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 3\n📊 Støða: SPÆLT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 5\n📊 Støða: SPÆLT
 DURATION:PT2H
-LOCATION:í Sarpugerði
-DTSTART:20250330T140000Z
-SUMMARY:Víkingur - 07 Vestur 0:0
-UID:a17948b4-4877-4b6f-a0e5-a86a3e3cc4a6@a179.org
+LOCATION:við Djúpumýru
+DTSTART:20250412T180000Z
+SUMMARY:KÍ - Víkingur 2:0
+UID:d2f6a857-117e-4e76-8634-192bcc799523@d2f6.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 11\n📊 Støða: SPÆLT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 27\n📊 Støða: SPÆLT
 DURATION:PT2H
 LOCATION:í Sarpugerði
-DTSTART:20250525T140000Z
-SUMMARY:Víkingur - FC Suðuroy 3:1
-UID:5374eb7f-07a7-4ce1-8504-2d3036c938ef@5374.org
+DTSTART:20251025T133000Z
+SUMMARY:Víkingur - HB 0:2
+UID:e5170a2e-c24a-423f-a266-ebe980316adb@e517.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 14\n📊 Støða: SPÆLT
+DURATION:PT2H
+LOCATION:við Løkin
+DTSTART:20250622T161500Z
+SUMMARY:NSÍ - Víkingur 1:1
+UID:ed4b9fcf-c2f9-4458-b352-4328b6a14324@ed4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 23\n📊 Støða: SPÆLT
+DURATION:PT2H
+LOCATION:í Sarpugerði
+DTSTART:20250921T140000Z
+SUMMARY:Víkingur - 07 Vestur 2:1
+UID:1a62258c-c2bc-475d-8235-bf9b205bde83@1a62.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 21\n📊 Støða: SPÆLT
@@ -199,6 +103,102 @@ DURATION:PT2H
 LOCATION:Svangaskarð\, ovari vøllur
 DTSTART:20250830T173000Z
 SUMMARY:B68 - Víkingur 2:2
-UID:67bd91c6-d79b-4f9c-9fe4-6709b7fe7a76@67bd.org
+UID:f2f9cfb8-f2a4-43da-9c73-0160e998aff9@f2f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 3\n📊 Støða: SPÆLT
+DURATION:PT2H
+LOCATION:í Sarpugerði
+DTSTART:20250330T140000Z
+SUMMARY:Víkingur - 07 Vestur 0:0
+UID:2feef03e-137a-440c-a737-1c50f4bfdc4d@2fee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 13\n📊 Støða: SPÆLT
+DURATION:PT2H
+LOCATION:við Stórá
+DTSTART:20250614T143000Z
+SUMMARY:TB - Víkingur 0:3
+UID:327b10fd-ea71-4b91-9008-e22ab75b25c9@327b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 9\n📊 Støða: SPÆLT
+DURATION:PT2H
+LOCATION:í Sarpugerði
+DTSTART:20250509T170000Z
+SUMMARY:Víkingur - HB 0:1
+UID:b090a960-10b1-4695-a212-1ce824367882@b090.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 11\n📊 Støða: SPÆLT
+DURATION:PT2H
+LOCATION:í Sarpugerði
+DTSTART:20250525T140000Z
+SUMMARY:Víkingur - FC Suðuroy 3:1
+UID:ec5e5280-8bf9-4bee-bfcb-b2ce5ad0e45a@ec5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 24\n📊 Støða: SPÆLT
+DURATION:PT2H
+LOCATION:Gundadalur\, ovari vøllur
+DTSTART:20250928T140000Z
+SUMMARY:B36 - Víkingur 1:1
+UID:52ad566e-51da-4182-b705-ee1d7f6ff47c@52ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 8\n📊 Støða: SPÆLT
+DURATION:PT2H
+LOCATION:á Eiðinum
+DTSTART:20250504T133000Z
+SUMMARY:FC Suðuroy - Víkingur 0:2
+UID:9e5dc88d-6759-42df-bca6-52f1d00b6351@9e5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 17\n📊 Støða: SPÆLT
+DURATION:PT2H
+LOCATION:á Dungasandi
+DTSTART:20250802T173000Z
+SUMMARY:07 Vestur - Víkingur 1:2
+UID:0d2734c6-511c-48e1-bdaa-f236d854f497@0d27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 6\n📊 Støða: SPÆLT
+DURATION:PT2H
+LOCATION:í Sarpugerði
+DTSTART:20250417T140000Z
+SUMMARY:Víkingur - EB/Streymur 4:1
+UID:fd03770a-cb03-4c20-bbfe-5c0fde64e381@fd03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 12\n📊 Støða: SPÆLT
+DURATION:PT2H
+LOCATION:Gundadalur\, ovari vøllur
+DTSTART:20250529T140000Z
+SUMMARY:HB - Víkingur 2:1
+UID:7304e63b-e8fe-4087-b112-6900fe2091d4@7304.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 7\n📊 Støða: SPÆLT
+DURATION:PT2H
+LOCATION:Svangaskarð\, ovari vøllur
+DTSTART:20250426T160000Z
+SUMMARY:B68 - Víkingur 0:1
+UID:624b5fcd-0097-42ac-8292-18f9fe9a3ba0@624b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 15\n📊 Støða: SPÆLT
+DURATION:PT2H
+LOCATION:í Sarpugerði
+DTSTART:20250629T140000Z
+SUMMARY:Víkingur - B68 2:1
+UID:e3885b76-b973-44c6-a376-895537006eea@e388.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 22\n📊 Støða: SPÆLT
+DURATION:PT2H
+LOCATION:við Djúpumýru
+DTSTART:20250915T173000Z
+SUMMARY:KÍ - Víkingur 0:0
+UID:8f1a41ba-e321-4bc0-84b6-c0da775e22ec@8f1a.org
 END:VEVENT
 END:VCALENDAR
